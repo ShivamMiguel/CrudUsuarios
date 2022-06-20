@@ -1,0 +1,26 @@
+{
+  "name": "crudusuarios",
+  "version": "1.0.0",
+  "description": "Api com microservices\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D rest com 2 microservices",
+  "main": "./dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ./",
+    "build":"tsc -p ."
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShivamMiguel/CrudUsuarios.git"
+  },
+  "author": "António Miguel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShivamMiguel/CrudUsuarios/issues"
+  },
+  "homepage": "https://github.com/ShivamMiguel/CrudUsuarios#readme",
+  "devDependencies": {
+    "@types/node": "^18.0.0",
+    "typescript": "^4.7.4"
+  }
+}
